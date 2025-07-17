@@ -29,5 +29,4 @@ I'm a Software Engineer with almost a year of experience in the IT industry. I'm
 - 💼 LinkedIn: https://www.linkedin.com/in/karantaragi26/
 
 ---
-
-> “Consistency beats intensity. Keep building, keep learning.”
+“Consistency beats intensity. Keep building, keep learning.”
