@@ -19,7 +19,7 @@ I'm a Software Engineer with almost a year of experience in the IT industry. I'm
 - 🔧 Building **microservices projects** using Kafka, Spring Boot & Db2
 - 🧪 Learning **DevOps** tools like Docker, Jenkins, CI/CD pipelines
 - ☁️ Exploring **Amazon Web Services** for deployment and scalability
-- 📚 Practicing **DSA** and **System Design** for better interview readiness
+- 📚 Practicing **DSA** and **System Design**
 
 ---
 
