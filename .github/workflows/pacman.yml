@@ -1,0 +1,56 @@
+name: Generate Pacman Graphs and Update README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout repository
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Generate light-mode Pacman graph
+      - name: Generate light-mode pacman graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: karantaragi07
+          theme: light
+          output: pacman-contribution-graph.svg
+
+      # Generate dark-mode Pacman graph
+      - name: Generate dark-mode pacman graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: karantaragi07
+          theme: dark
+          output: pacman-contribution-graph-dark.svg
+
+      # Push both graphs to output branch
+      - name: Push graphs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: .
+          commit_message: "Update Pacman graphs [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Update README.md with <picture> block
+      - name: Update README
+        run: |
+          sed -i '/<!--PACMAN-START-->/,/<!--PACMAN-END-->/d' README.md
+          echo -e '<!--PACMAN-START-->\n<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karantaragi07/karantaragi07/output/pacman-contribution-graph-dark.svg">\n  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karantaragi07/karantaragi07/output/pacman-contribution-graph.svg">\n  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karantaragi07/karantaragi07/output/pacman-contribution-graph.svg">\n</picture>\n<!--PACMAN-END-->' >> README.md
+
+      # Commit & push README
+      - name: Commit & push README
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "Karan Taragi"
+          author_email: "ksingh064002@gmail.com"
+          message: "Update README with Pacman graphs [skip ci]"
