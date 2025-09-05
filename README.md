@@ -8,13 +8,24 @@
   </svg>
 
   <!-- Typing dynamic text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=800&color=0DF781&width=1500&height=160&center=true&lines=Karan+Taragi;Spring+Boot+Developer;Exploring+Microservices+and+System+Design;DevOps+Enthusiast;Building+Scalable+%26+Production-Ready+Systems;Passionate+About+Learning+%26+Improving+Every+Day" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=800&color=0DF781&width=1500&height=90&center=true&lines=Karan+Taragi;Spring+Boot+Developer;Exploring+Microservices+and+System+Design;DevOps+Enthusiast;Building+Scalable+%26+Production-Ready+Systems;Passionate+About+Learning+%26+Improving+Every+Day" 
        alt="Typing SVG" style="display:block; margin:auto;" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karantaragi07&theme=onedark&column=-1" alt="Trophies" />
-</p>
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=karantaragi07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=karantaragi07&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+## My Contributions
+
+<!--PACMAN-START-->
+<!--PACMAN-END-->
+
+###
 
 
 <h2 align="center">💡 About Me</h2>
