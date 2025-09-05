@@ -11,8 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=800&color=0DF781&width=1500&height=90&center=true&lines=Karan+Taragi;Spring+Boot+Developer;Exploring+Microservices+and+System+Design;DevOps+Enthusiast;Building+Scalable+%26+Production-Ready+Systems;Passionate+About+Learning+%26+Improving+Every+Day" 
        alt="Typing SVG" style="display:block; margin:auto;" />
 </div>
-
-###
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=karantaragi07" alt="karantaragi07" />
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=karantaragi07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=karantaragi07&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -29,25 +30,15 @@
 
 ###
 
-
+<hr>
 <h2 align="center">💡 About Me</h2>
 
-<ul>
-  <li>🔭 <strong>Currently working on:</strong> <a href="https://github.com/karantaragi07/Email-Assistant">Smart Email Assistant – AI-driven email processing using Spring Boot & Google Gemini API</a></li>
-  <li>🌱 <strong>Currently learning:</strong> Advanced Spring Boot, Terraform, AWS Cloud Architecture, and System Design</li>
-  <li>👯 <strong>Looking to collaborate on:</strong> Spring Boot microservices, DevOps pipelines, or cloud-native projects</li>
-  <li>🤝 <strong>Seeking guidance on:</strong> Microservices scalability & CI/CD optimization</li>
-  <li>👨‍💻 <strong>All projects:</strong> <a href="https://github.com/karantaragi07?utm_source=chatgpt.com">GitHub Portfolio</a></li>
-  <li>📝 <strong>Exploring & sharing:</strong> <a href="#">New technologies and coding experiments</a></li>
-  <li>💬 <strong>Ask me about:</strong> Java, Spring Boot, Microservices, DevOps, AWS</li>
-  <li>📫 <strong>Reach me at:</strong> ksingh064002@gmail.com | +91-8077879481</li>
-  <li>📄 <strong>Resume & Experience:</strong> <a href="https://gray-dorthea-75.tiiny.site/Karan_Taragi_26_Plain.pdf">View Here</a></li>
-  <li>⚡ <strong>Fun fact:</strong> Stay curious, keep building!</li>
-</ul>
+I’m Karan Taragi, currently working on Smart Email Assistant, an AI-driven email processing application built using Spring Boot and Google Gemini API. I’m continuously learning Advanced Spring Boot, Terraform, AWS Cloud Architecture, and System Design to expand my skillset. I’m looking to collaborate on Spring Boot microservices, DevOps pipelines, or cloud-native projects, and I seek guidance on microservices scalability and CI/CD optimization. You can explore all my work on my GitHub portfolio
+. I love experimenting with new technologies, sharing insights, and discussing ideas about Java, Spring Boot, Microservices, DevOps, and AWS. Feel free to reach me at ksingh064002@gmail.com.
 
 
 
-<h3 align="center">🚀 Languages & Tools</h3>
+<h2 align="center">🚀 Languages & Tools</h2>
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -93,7 +84,7 @@
 </p>
 
 
-
+<hr>
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
@@ -122,38 +113,29 @@
 
 </div>
 
-<h2 align="center">I really like music 🎧</h2>
-
-<p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" alt="Now Playing" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg" alt="Top Played" />
-</p>
-
-
 <hr>
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+<div align="center">
+  <h3>
+    <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="29" />
+    Here's some humor for you
+  </h3>
+  <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width="1100" />
+</div>
 
 <hr>
 <h3 align="center">🤝 Connect with me</h3>
-<p align="center">
+<div align="center">
+  <a href="https://www.instagram.com/karantaragi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <a href="mailto:ksingh064002@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
   <a href="https://linkedin.com/in/karantaragi26" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" style="margin:0 100px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://instagram.com/karan_taragi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" style="margin:0 100px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://leetcode.com/u/karan_taragi_26/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50" style="margin:0 100px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-</p>
-<hr>
+</div>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
