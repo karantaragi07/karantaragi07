@@ -33,7 +33,7 @@
 <hr>
 <h2 align="center">💡 About Me</h2>
 
-I’m Karan Taragi, currently working on Smart Email Assistant, an AI-driven email processing application built using Spring Boot and Google Gemini API. I’m continuously learning Advanced Spring Boot, Terraform, AWS Cloud Architecture, and System Design to expand my skillset. I’m looking to collaborate on Spring Boot microservices, DevOps pipelines, or cloud-native projects, and I seek guidance on microservices scalability and CI/CD optimization. You can explore all my work on my GitHub portfolio
+I’m Karan Taragi, currently working on DevOps. I’m continuously learning Advanced Spring Boot, Terraform, AWS Cloud Architecture, and System Design to expand my skillset. I’m looking to collaborate on Spring Boot microservices, DevOps pipelines, or cloud-native projects, and I seek guidance on microservices scalability and CI/CD optimization. You can explore all my work on my GitHub portfolio
 . I love experimenting with new technologies, sharing insights, and discussing ideas about Java, Spring Boot, Microservices, DevOps, and AWS. Feel free to reach me at ksingh064002@gmail.com.
 
 
